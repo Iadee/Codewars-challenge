@@ -84,3 +84,4 @@ function greet(name) {
 function friend(friends){
   return friends.filter(person => person.length == 4)
 }
+will be posting my codewars for the year 2024 soon....
